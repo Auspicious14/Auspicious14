@@ -1,7 +1,5 @@
 <!-- <p><img align="left" src="https://github.com/auspicious14/github-readme-stats" alt="auspicious14"/></p> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auspicious14&theme=tokyonight&show_icons=true&locale=en&layout=compact)
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Auspicious14&theme=dark)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=auspicious14&theme=algolia&background=202389)](https://git.io/streak-stats)
+
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](http://www.dicoding.com/)" width="100"/>
 </div>
@@ -33,3 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auspicious14&theme=tokyonight&show_icons=true&locale=en&layout=compact)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Auspicious14&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=auspicious14&theme=algolia&background=202389)](https://git.io/streak-stats)
