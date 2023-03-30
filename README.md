@@ -2,3 +2,24 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auspicious14&theme=tokyonight&show_icons=true&locale=en&layout=compact)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Auspicious14&theme=dark)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=auspicious14&theme=algolia&background=202389)](https://git.io/streak-stats)
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](http://www.dicoding.com/)" width="100"/>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+ <img src="https://komarev.com/ghpvc/?username=auspicious14&style=flat-square&color=blue" alt=""/>
+ <h1>
+ Hi, I'm Abdulganiy.
+</h1>
+<h1>A Software Engineer based in Kwara, Nigeria</h1>
+### :hammer_and_wrench: Languages and Tools :
+
