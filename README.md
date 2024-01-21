@@ -32,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQl" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="GraphQl" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="GraphQl" width="40" height="40" />
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auspicious14&theme=tokyonight&show_icons=true&locale=en&layout=compact)
