@@ -33,13 +33,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg" title="NestJS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQl" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" width="40" height="40" />
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auspicious14&theme=tokyonight&show_icons=true&locale=en&layout=compact)
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Auspicious14&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Auspicious14&theme=dark)](https://git.io/streak-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Auspicious14&theme=algolia&background=202389)](https://git.io/streak-stats)
 
