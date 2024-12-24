@@ -40,7 +40,7 @@
 </div>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Auspicious14" alt="GitHub Streak" /></a>
-<a href="https://github.com/Auspicious14/github-stats/blob/master/generated/languages.svg"<img src="https://github.com/Auspicious14/github-stats/blob/master/generated/languages.svg" alt="GitHub Streak" /></a>
+<a href="https://github.com/Auspicious14/github-stats/blob/master/generated/languages.svg"><img src="https://github.com/Auspicious14/github-stats/blob/master/generated/languages.svg" alt="GitHub Streak" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auspicious14&theme=tokyonight&show_icons=true&locale=en&layout=compact)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Auspicious14&theme=dark)](https://git.io/streak-stats) -->
