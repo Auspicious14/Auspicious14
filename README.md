@@ -39,7 +39,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" width="40" height="40" />
 </div>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auspicious14&theme=tokyonight&show_icons=true&locale=en&layout=compact)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Auspicious14&theme=dark)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=auspicious14&theme=algolia&background=202389)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=auspicious14&theme=algolia&background=202389)](https://git.io/streak-stats)
