@@ -1,4 +1,4 @@
-<p><img align="left" src="https://github.com/auspicious14/github-readme-stats" alt="auspicious14"/></p>
+<!-- <p><img align="left" src="https://github.com/auspicious14/github-readme-stats" alt="auspicious14"/></p> -->
 
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](http://www.dicoding.com/)" width="100"/>
